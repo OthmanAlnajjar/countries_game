@@ -7,7 +7,7 @@ Countries game using a Localhost (xamp) (Html, JavaScript, php, sql, css, csv)
 =====================================================================================
 testing instuctions:
 please run xamp (Apache and MySQL) for localhost.
-Please run first 002_create_table.php after enabling xamp (Apache and MySQL).
-run 003_main_index.php
+Please run first 002_create_table.php.
+run 003_main_index.php.
 ======================================================================================
 enjoy!
